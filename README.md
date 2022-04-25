@@ -1,1 +1,3 @@
-# data_structers_hw1
+# data_structers_hws
+
+- They all build on a template given by class assistant.

@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "string.h": "c",
+        "treelike.h": "c",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "iomanip": "cpp"
+    }
+}
